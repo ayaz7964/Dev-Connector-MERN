@@ -1,10 +1,9 @@
 
 
 
-# MERN Stack Front To Back: Full Stack React, Redux and Node.js [Video]
+# MERN Stack Front To Back: Full Stack React, Redux and Node.js
 This is the code repository for MERN Stack Front To Back: Full Stack React, Redux and Node.js . It contains all the supporting project files necessary to work through the video course from start to finish.
-## About the Video Course
-In this project you will find an in depth full stack social network application using Node.js, Express, React, Redux and MongoDB along with ES6+. You will start with a bank text editor and end with a deployed full stack application.
+
 
 <H2>What You Will Explore</H2>
 <DIV class=book-info-will-learn-text>

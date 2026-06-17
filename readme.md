@@ -1,0 +1,1 @@
+This project aim is to build an application that connects different developer. 
